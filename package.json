@@ -1,0 +1,12 @@
+{
+  "name": "kands-template-landing",
+  "version": "1.0.0",
+  "description": "marketing page from kands.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pavel Kakrh",
+  "license": "BSD"
+}
